@@ -1,0 +1,53 @@
+{
+    "document": {
+        "name": "我的文档",
+        "type": "local",
+        "children": [
+            {
+                "name": "我的文件",
+                "flag": "leafnode",
+                "children": []
+            },
+            {
+                "name": "保险箱",
+                "flag": "leafnode",
+                "children": []
+            }
+        ]
+    },
+    "workspace": {
+        "name": "工作空间",
+        "type": "local",
+        "children": [
+            {
+                "name": "下载文件夹",
+                "key": "download",
+                "flag": "treenode",
+                "childurl": "localhost:8877/user/:admin/:download/tree.json",
+                "children": []
+            },
+            {
+                "name": "我的数据",
+                "children": []
+            },
+            {
+                "name": "共享数据",
+                "children": []
+            }
+        ]
+    },
+    "share": {
+        "name": "共享文件",
+        "type": "share",
+        "children": [
+            {
+                "name": "收到的",
+                "children": []
+            },
+            {
+                "name": "共享",
+                "children": []
+            }
+        ]
+    }
+}
