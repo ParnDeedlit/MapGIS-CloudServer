@@ -1,0 +1,17 @@
+[
+    {
+        "title": "123",
+        "loading": false,
+        "children": []
+    },
+    {
+        "title": "456",
+        "loading": false,
+        "children": []
+    },
+    {
+        "title": "789",
+        "loading": false,
+        "children": []
+    }
+]

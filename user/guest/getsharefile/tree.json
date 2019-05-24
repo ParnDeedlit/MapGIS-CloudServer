@@ -1,0 +1,37 @@
+[
+    {
+        "title": "图片",
+        "loading": false,
+        "children": []
+    },
+  
+    {
+        "title": "视频",
+        "loading": false,
+        "children": []
+    },
+
+    {
+        "title": "音乐",
+        "loading": false,
+        "children": []
+    },
+
+    {
+        "title": "文档",
+        "loading": false,
+        "children": []
+    },
+
+    {
+        "title": "种子",
+        "loading": false,
+        "children": []
+    },
+    
+    {
+        "title": "其他",
+        "loading": false,
+        "children": []
+    }
+]

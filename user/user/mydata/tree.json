@@ -1,0 +1,22 @@
+[
+    {
+        "title": "准备阶段数据",
+        "loading": false,
+        "children": []
+    },
+    {
+        "title": "调查数据",
+        "loading": false,
+        "children": []
+    },
+    {
+        "title": "综合研究",
+        "loading": false,
+        "children": []
+    },
+    {
+        "title": "成果数据",
+        "loading": false,
+        "children": []
+    }
+]
