@@ -125,6 +125,7 @@ app.use(express.static(__dirname + '/public'));
 app.use(express.static(__dirname + '/../../dist'));
 app.use('/data', express.static('./data'));
 app.use('/login', express.static('./login'));
+app.use('/user', express.static('./user'));
 app.get('/', function (req, res) {
     res.redirect('ui/index.html');
 });
